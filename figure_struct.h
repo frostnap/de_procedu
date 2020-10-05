@@ -1,11 +1,17 @@
 #ifndef FIGURE_STRUCT_H
 #define FIGURE_STRUCT_H
 #include "mType.h"
+#include "sphere_struct.h"
+#include "parallelepiped_struct.h"
 
 namespace namesp {
 
     struct figure {
-        double density;
+        union {
+            sphere s;
+            parallelepiped p;
+        };
+        int density;
         mType type; // Тип объекта
     };
 }

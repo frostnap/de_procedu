@@ -11,7 +11,7 @@ using namespace std;
 namespace namesp {
 
     void OutParal(figure *fig, ofstream &ofstr);
-    figure *InParal(ifstream &ifstr);
+    parallelepiped InParal(ifstream &ifstr);
 }
 
 #endif //PARALLELEPIPED_H

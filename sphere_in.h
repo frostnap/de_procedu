@@ -9,7 +9,7 @@ using namespace std;
 
 namespace namesp {
 
-    figure *InSphere(ifstream &ifstr);
+    sphere InSphere(ifstream &ifstr);
 }
 
 #endif //SPHERE_IN_H

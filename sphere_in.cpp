@@ -4,11 +4,11 @@ using namespace std;
 
 namespace namesp {
 
-    figure *InSphere(ifstream &ifstr){
-        auto *temp = new sphere;
-        ifstr >> temp->radius;
+    sphere InSphere(ifstream &ifstr){
+        sphere temp{};
+        ifstr >> temp.radius;
         if (!ifstr.eof()) ifstr.get();
-        return (figure *) temp;
+        return temp;
     }
 
 }

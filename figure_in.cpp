@@ -12,15 +12,15 @@ using namespace std;
 namespace namesp {
 
     void *In(ifstream &ifstr) {
-        figure *element = nullptr;
+        auto *element = new figure{};
         char data[255];
         if (!ifstr.eof()) ifstr.get();
         ifstr.getline(data, 255);
         if (std::string(data) == "1") {
-            element = InSphere(ifstr);
+            element->s = InSphere(ifstr);
             element->type = mType::SPHERE;
         } else if (std::string(data) == "2") {
-            element = InParal(ifstr);
+            element->p = InParal(ifstr);
             element->type = mType::PARALLELEPIPED;
         } else {
             delete element;
