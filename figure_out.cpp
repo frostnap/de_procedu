@@ -1,6 +1,3 @@
-#ifndef FIGURE_OUT_H
-#define FIGURE_OUT_H
-
 #include <fstream>
 #include <iostream>
 
@@ -25,5 +22,3 @@ namespace namesp {
     }
 
 }
-
-#endif //FIGURE_OUT_H

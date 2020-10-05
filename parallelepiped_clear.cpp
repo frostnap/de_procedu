@@ -1,6 +1,3 @@
-#ifndef PARALLELEPIPED_H
-#define PARALLELEPIPED_H
-
 #include "parallelepiped_clear.h"
 
 namespace namesp {
@@ -9,5 +6,3 @@ namespace namesp {
         delete ((parallelepiped*)fig);
     }
 }
-
-#endif //PARALLELEPIPED_H

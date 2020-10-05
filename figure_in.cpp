@@ -1,6 +1,3 @@
-#ifndef FIGURE_IN_H
-#define FIGURE_IN_H
-
 #include <fstream>
 #include <iostream>
 
@@ -31,5 +28,3 @@ namespace namesp {
         return element;
     }
 }
-
-#endif //FIGURE_IN_H
