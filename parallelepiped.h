@@ -8,10 +8,4 @@
 
 using namespace std;
 
-namespace namesp {
-
-    void OutParal(figure *fig, ofstream &ofstr);
-    parallelepiped InParal(ifstream &ifstr);
-}
-
 #endif //PARALLELEPIPED_H
