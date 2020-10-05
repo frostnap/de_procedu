@@ -1,12 +1,36 @@
+#include <fstream>
+#include <string>
 #include <iostream>
+#include <sstream>
+
+#include "container.h"
 
 using namespace std;
 
-
+const bool taskInfo = false;
 void getVariant(int id);
 
-int main() {
-    getVariant(31722299);
+int main(int argc, char* argv[]) {
+    // Вывод варианта
+    if(taskInfo) getVariant(31722299);
+    // Проверка на корректность ввода аргументов
+    if(argc !=3) {
+        cout << "Command line error! " << endl;
+        exit(1);
+    }
+    // Открытие потоков для чтения/записи
+    ifstream ifst(argv[1]);
+    ofstream ofst(argv[2]);
+    cout << "START"<< endl;
+    // Объявление numbers_array
+    namesp::container c{};
+    // Считывание из файла
+    namesp::In(c, ifst);
+    // Вывод в файл
+    namesp::Out(c, ofst);
+    // Очистка контейнера
+    namesp::Clear(c);
+    cout << "Program ended"<< endl;
     return 0;
 }
 
