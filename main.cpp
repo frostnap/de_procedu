@@ -4,6 +4,7 @@
 #include <sstream>
 
 #include "container.h"
+#include "mType.h"
 
 using namespace std;
 
@@ -27,7 +28,7 @@ int main(int argc, char* argv[]) {
     // Считывание из файла
     namesp::In(c, ifst);
     // Вывод в файл
-    namesp::Out(c, ofst);
+    namesp::Out(c, ofst, namesp::mType::PARALLELEPIPED);
     // Очистка контейнера
     namesp::Clear(c);
     cout << "Program ended"<< endl;
