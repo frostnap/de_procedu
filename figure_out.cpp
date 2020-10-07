@@ -10,7 +10,7 @@ namespace namesp {
 
     void Out(void *element, ofstream &ofstr) {
         auto *fig = (figure*)element;
-        ofstr << "S=" << FigureFunct(fig) << "; ";
+        ofstr << "V=" << FigureFunct(fig) << "; ";
         switch(fig->type) {
             case mType::SPHERE:
                 OutSphere(fig, ofstr);
