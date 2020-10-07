@@ -18,6 +18,7 @@ namespace namesp {
                 OutParal(fig, ofstr);
                 break;
         }
+        ofstr << "temperature of melting=" << fig->temperatureOfMelting << ";";
         ofstr << "density=" << fig->density << ";";
     }
 

@@ -12,6 +12,7 @@ namespace namesp {
             parallelepiped p;
         };
         int density;
+        int temperatureOfMelting;
         mType type; // Тип объекта
     };
 }
