@@ -3,6 +3,7 @@
 
 #include "parallelepiped.h"
 #include "sphere.h"
+#include "tetraedr.h"
 #include "figure_struct.h"
 #include "figure_clear.h"
 #include "figure_in.h"

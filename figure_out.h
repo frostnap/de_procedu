@@ -4,6 +4,7 @@
 #include <fstream>
 #include <iostream>
 
+#include "tetraedr.h"
 #include "parallelepiped.h"
 #include "sphere.h"
 

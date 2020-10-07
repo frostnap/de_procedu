@@ -1,9 +1,6 @@
 #include <fstream>
 #include <iostream>
-
-#include "parallelepiped_out.h"
-#include "sphere_out.h"
-
+#include "figure_out.h"
 using namespace std;
 
 namespace namesp {
@@ -16,6 +13,9 @@ namespace namesp {
                 break;
             case mType::PARALLELEPIPED:
                 OutParal(fig, ofstr);
+                break;
+            case mType::TETRAEDR:
+                OutTetr(fig, ofstr);
                 break;
         }
         ofstr << "density=" << fig->density << ";";
