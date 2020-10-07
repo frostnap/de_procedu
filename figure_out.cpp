@@ -1,6 +1,6 @@
 #include <fstream>
 #include <iostream>
-
+#include "figure_funct.h"
 #include "parallelepiped_out.h"
 #include "sphere_out.h"
 
@@ -10,6 +10,7 @@ namespace namesp {
 
     void Out(void *element, ofstream &ofstr) {
         auto *fig = (figure*)element;
+        ofstr << "S=" << FigureFunct(fig) << "; ";
         switch(fig->type) {
             case mType::SPHERE:
                 OutSphere(fig, ofstr);
