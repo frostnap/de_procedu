@@ -9,6 +9,7 @@ namespace namesp {
             // размер таблицы были взаимно простыми (в нашем случае = 3 и 1024)
             return HashLinear(c, typeKey);
         } else {
+            c.currentAmount++;
             return typeKey;
         }
     }

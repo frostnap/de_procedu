@@ -26,6 +26,8 @@ int main(int argc, char* argv[]) {
     namesp::container c{};
     // Считывание из файла
     namesp::In(c, ifst);
+
+    namesp::Sort(c);
     // Вывод в файл
     namesp::Out(c, ofst);
     // Очистка контейнера

@@ -11,4 +11,4 @@ add_executable(Lab2020_P main.cpp container.h figure.h parallelepiped_struct.h s
         sphere_in.cpp sphere_in.h sphere_out.cpp container_clear.cpp container_clear.h container_hashfunctions.cpp
         container_hashfunctions.h container_in.cpp container_in.h container_out.cpp container_out.h
         figure_funct.cpp figure_funct.h parallelepiped_funct.h parallelepiped_funct.cpp sphere_funct.cpp
-        sphere_funct.h)
+        sphere_funct.h container_sort.cpp container_sort.h)
