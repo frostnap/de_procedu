@@ -10,7 +10,7 @@
 using namespace std;
 
 namespace namesp {
-    void Out(container &c, ofstream &ofstr);
+    void Out(container &c, ofstream &ofstr, mType ignoreSomeType = mType::NONE);
 }
 
 #endif //CONTAINER_OUT_H
