@@ -13,6 +13,9 @@ namespace namesp {
             case mType::PARALLELEPIPED:
                 ClearParal(fig);
                 break;
+            case mType::TETRAEDR:
+                ClearTetraedr(fig);
+                break;
         }
     }
 }

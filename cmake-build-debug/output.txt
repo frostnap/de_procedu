@@ -1,5 +1,5 @@
-Table index: 0. S=6; parallelepiped: A=1;B=2;C=3;density=4;
-Table index: 3. S=12.56; sphere: radius=2;density=1;
-Table index: 6. S=452.16; sphere: radius=12;density=6;
-Table index: 9. S=530.66; sphere: radius=13;density=1;
-Table index: 1. S=12.56; sphere: radius=2;density=3;
+Table index: 0. V=0.942809; tetraedr: length=2;density=1;
+Table index: 3. V=5425.92; sphere: radius=12;density=6;
+Table index: 6. V=6898.58; sphere: radius=13;density=1;
+Table index: 1. V=6; parallelepiped: A=1;B=2;C=3;density=4;
+Table index: 2. V=25.12; sphere: radius=2;density=3;

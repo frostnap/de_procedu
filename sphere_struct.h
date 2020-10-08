@@ -6,7 +6,6 @@
 namespace namesp {
 
     struct sphere {
-        double density;
         mType num_type; // Тип объекта
         int radius;
     };

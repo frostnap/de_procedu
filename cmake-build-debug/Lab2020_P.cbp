@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Lab2020_P"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/y2g/CLionProjects/Lab2020_P/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/y2g/CLionProjects/Lab2020_P/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/y2g/CLionProjects/Lab2020_P/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/y2g/CLionProjects/Lab2020_P/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/y2g/CLionProjects/Lab2020_P/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Lab2020_P">
+				<Option output="C:/Users/y2g/CLionProjects/Lab2020_P/cmake-build-debug/Lab2020_P.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/y2g/CLionProjects/Lab2020_P/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/y2g/CLionProjects/Lab2020_P/cmake-build-debug/Makefile&quot;  VERBOSE=1 Lab2020_P"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/y2g/CLionProjects/Lab2020_P/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/y2g/CLionProjects/Lab2020_P/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/y2g/CLionProjects/Lab2020_P/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Lab2020_P/fast">
+				<Option output="C:/Users/y2g/CLionProjects/Lab2020_P/cmake-build-debug/Lab2020_P.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/y2g/CLionProjects/Lab2020_P/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/y2g/CLionProjects/Lab2020_P/cmake-build-debug/Makefile&quot;  VERBOSE=1 Lab2020_P/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/y2g/CLionProjects/Lab2020_P/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/y2g/CLionProjects/Lab2020_P/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/y2g/CLionProjects/Lab2020_P/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/y2g/CLionProjects/Lab2020_P/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/y2g/CLionProjects/Lab2020_P/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/y2g/CLionProjects/Lab2020_P/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/y2g/CLionProjects/Lab2020_P/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/y2g/CLionProjects/Lab2020_P/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/y2g/CLionProjects/Lab2020_P/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/y2g/CLionProjects/Lab2020_P/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/y2g/CLionProjects/Lab2020_P/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/y2g/CLionProjects/Lab2020_P/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/y2g/CLionProjects/Lab2020_P/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/y2g/CLionProjects/Lab2020_P/container.h">
+			<Option target="Lab2020_P"/>
+		</Unit>
+		<Unit filename="C:/Users/y2g/CLionProjects/Lab2020_P/container_clear.cpp">
+			<Option target="Lab2020_P"/>
+		</Unit>
+		<Unit filename="C:/Users/y2g/CLionProjects/Lab2020_P/container_clear.h">
+			<Option target="Lab2020_P"/>
+		</Unit>
+		<Unit filename="C:/Users/y2g/CLionProjects/Lab2020_P/container_hashfunctions.cpp">
+			<Option target="Lab2020_P"/>
+		</Unit>
+		<Unit filename="C:/Users/y2g/CLionProjects/Lab2020_P/container_hashfunctions.h">
+			<Option target="Lab2020_P"/>
+		</Unit>
+		<Unit filename="C:/Users/y2g/CLionProjects/Lab2020_P/container_in.cpp">
+			<Option target="Lab2020_P"/>
+		</Unit>
+		<Unit filename="C:/Users/y2g/CLionProjects/Lab2020_P/container_in.h">
+			<Option target="Lab2020_P"/>
+		</Unit>
+		<Unit filename="C:/Users/y2g/CLionProjects/Lab2020_P/container_out.cpp">
+			<Option target="Lab2020_P"/>
+		</Unit>
+		<Unit filename="C:/Users/y2g/CLionProjects/Lab2020_P/container_out.h">
+			<Option target="Lab2020_P"/>
+		</Unit>
+		<Unit filename="C:/Users/y2g/CLionProjects/Lab2020_P/container_sort.cpp">
+			<Option target="Lab2020_P"/>
+		</Unit>
+		<Unit filename="C:/Users/y2g/CLionProjects/Lab2020_P/container_sort.h">
+			<Option target="Lab2020_P"/>
+		</Unit>
+		<Unit filename="C:/Users/y2g/CLionProjects/Lab2020_P/container_struct.h">
+			<Option target="Lab2020_P"/>
+		</Unit>
+		<Unit filename="C:/Users/y2g/CLionProjects/Lab2020_P/element.h">
+			<Option target="Lab2020_P"/>
+		</Unit>
+		<Unit filename="C:/Users/y2g/CLionProjects/Lab2020_P/figure.h">
+			<Option target="Lab2020_P"/>
+		</Unit>
+		<Unit filename="C:/Users/y2g/CLionProjects/Lab2020_P/figure_clear.cpp">
+			<Option target="Lab2020_P"/>
+		</Unit>
+		<Unit filename="C:/Users/y2g/CLionProjects/Lab2020_P/figure_clear.h">
+			<Option target="Lab2020_P"/>
+		</Unit>
+		<Unit filename="C:/Users/y2g/CLionProjects/Lab2020_P/figure_funct.cpp">
+			<Option target="Lab2020_P"/>
+		</Unit>
+		<Unit filename="C:/Users/y2g/CLionProjects/Lab2020_P/figure_funct.h">
+			<Option target="Lab2020_P"/>
+		</Unit>
+		<Unit filename="C:/Users/y2g/CLionProjects/Lab2020_P/figure_getkey.cpp">
+			<Option target="Lab2020_P"/>
+		</Unit>
+		<Unit filename="C:/Users/y2g/CLionProjects/Lab2020_P/figure_getkey.h">
+			<Option target="Lab2020_P"/>
+		</Unit>
+		<Unit filename="C:/Users/y2g/CLionProjects/Lab2020_P/figure_in.cpp">
+			<Option target="Lab2020_P"/>
+		</Unit>
+		<Unit filename="C:/Users/y2g/CLionProjects/Lab2020_P/figure_in.h">
+			<Option target="Lab2020_P"/>
+		</Unit>
+		<Unit filename="C:/Users/y2g/CLionProjects/Lab2020_P/figure_out.cpp">
+			<Option target="Lab2020_P"/>
+		</Unit>
+		<Unit filename="C:/Users/y2g/CLionProjects/Lab2020_P/figure_out.h">
+			<Option target="Lab2020_P"/>
+		</Unit>
+		<Unit filename="C:/Users/y2g/CLionProjects/Lab2020_P/figure_struct.h">
+			<Option target="Lab2020_P"/>
+		</Unit>
+		<Unit filename="C:/Users/y2g/CLionProjects/Lab2020_P/mType.h">
+			<Option target="Lab2020_P"/>
+		</Unit>
+		<Unit filename="C:/Users/y2g/CLionProjects/Lab2020_P/main.cpp">
+			<Option target="Lab2020_P"/>
+		</Unit>
+		<Unit filename="C:/Users/y2g/CLionProjects/Lab2020_P/parallelepiped.h">
+			<Option target="Lab2020_P"/>
+		</Unit>
+		<Unit filename="C:/Users/y2g/CLionProjects/Lab2020_P/parallelepiped_clear.cpp">
+			<Option target="Lab2020_P"/>
+		</Unit>
+		<Unit filename="C:/Users/y2g/CLionProjects/Lab2020_P/parallelepiped_clear.h">
+			<Option target="Lab2020_P"/>
+		</Unit>
+		<Unit filename="C:/Users/y2g/CLionProjects/Lab2020_P/parallelepiped_funct.cpp">
+			<Option target="Lab2020_P"/>
+		</Unit>
+		<Unit filename="C:/Users/y2g/CLionProjects/Lab2020_P/parallelepiped_funct.h">
+			<Option target="Lab2020_P"/>
+		</Unit>
+		<Unit filename="C:/Users/y2g/CLionProjects/Lab2020_P/parallelepiped_in.cpp">
+			<Option target="Lab2020_P"/>
+		</Unit>
+		<Unit filename="C:/Users/y2g/CLionProjects/Lab2020_P/parallelepiped_in.h">
+			<Option target="Lab2020_P"/>
+		</Unit>
+		<Unit filename="C:/Users/y2g/CLionProjects/Lab2020_P/parallelepiped_out.cpp">
+			<Option target="Lab2020_P"/>
+		</Unit>
+		<Unit filename="C:/Users/y2g/CLionProjects/Lab2020_P/parallelepiped_out.h">
+			<Option target="Lab2020_P"/>
+		</Unit>
+		<Unit filename="C:/Users/y2g/CLionProjects/Lab2020_P/parallelepiped_struct.h">
+			<Option target="Lab2020_P"/>
+		</Unit>
+		<Unit filename="C:/Users/y2g/CLionProjects/Lab2020_P/sphere.h">
+			<Option target="Lab2020_P"/>
+		</Unit>
+		<Unit filename="C:/Users/y2g/CLionProjects/Lab2020_P/sphere_clear.cpp">
+			<Option target="Lab2020_P"/>
+		</Unit>
+		<Unit filename="C:/Users/y2g/CLionProjects/Lab2020_P/sphere_clear.h">
+			<Option target="Lab2020_P"/>
+		</Unit>
+		<Unit filename="C:/Users/y2g/CLionProjects/Lab2020_P/sphere_funct.cpp">
+			<Option target="Lab2020_P"/>
+		</Unit>
+		<Unit filename="C:/Users/y2g/CLionProjects/Lab2020_P/sphere_funct.h">
+			<Option target="Lab2020_P"/>
+		</Unit>
+		<Unit filename="C:/Users/y2g/CLionProjects/Lab2020_P/sphere_in.cpp">
+			<Option target="Lab2020_P"/>
+		</Unit>
+		<Unit filename="C:/Users/y2g/CLionProjects/Lab2020_P/sphere_in.h">
+			<Option target="Lab2020_P"/>
+		</Unit>
+		<Unit filename="C:/Users/y2g/CLionProjects/Lab2020_P/sphere_out.cpp">
+			<Option target="Lab2020_P"/>
+		</Unit>
+		<Unit filename="C:/Users/y2g/CLionProjects/Lab2020_P/sphere_out.h">
+			<Option target="Lab2020_P"/>
+		</Unit>
+		<Unit filename="C:/Users/y2g/CLionProjects/Lab2020_P/sphere_struct.h">
+			<Option target="Lab2020_P"/>
+		</Unit>
+		<Unit filename="C:/Users/y2g/CLionProjects/Lab2020_P/tetraedr.h">
+			<Option target="Lab2020_P"/>
+		</Unit>
+		<Unit filename="C:/Users/y2g/CLionProjects/Lab2020_P/tetraedr_clear.cpp">
+			<Option target="Lab2020_P"/>
+		</Unit>
+		<Unit filename="C:/Users/y2g/CLionProjects/Lab2020_P/tetraedr_clear.h">
+			<Option target="Lab2020_P"/>
+		</Unit>
+		<Unit filename="C:/Users/y2g/CLionProjects/Lab2020_P/tetraedr_funct.cpp">
+			<Option target="Lab2020_P"/>
+		</Unit>
+		<Unit filename="C:/Users/y2g/CLionProjects/Lab2020_P/tetraedr_funct.h">
+			<Option target="Lab2020_P"/>
+		</Unit>
+		<Unit filename="C:/Users/y2g/CLionProjects/Lab2020_P/tetraedr_in.cpp">
+			<Option target="Lab2020_P"/>
+		</Unit>
+		<Unit filename="C:/Users/y2g/CLionProjects/Lab2020_P/tetraedr_in.h">
+			<Option target="Lab2020_P"/>
+		</Unit>
+		<Unit filename="C:/Users/y2g/CLionProjects/Lab2020_P/tetraedr_out.cpp">
+			<Option target="Lab2020_P"/>
+		</Unit>
+		<Unit filename="C:/Users/y2g/CLionProjects/Lab2020_P/tetraedr_out.h">
+			<Option target="Lab2020_P"/>
+		</Unit>
+		<Unit filename="C:/Users/y2g/CLionProjects/Lab2020_P/tetraedr_struct.h">
+			<Option target="Lab2020_P"/>
+		</Unit>
+		<Unit filename="C:/Users/y2g/CLionProjects/Lab2020_P/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

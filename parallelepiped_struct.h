@@ -6,7 +6,6 @@
 namespace namesp {
 
     struct parallelepiped {
-        double density;
         mType num_type; // Тип объекта
         int data_A;
         int data_B;

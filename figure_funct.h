@@ -6,6 +6,7 @@
 
 #include "parallelepiped.h"
 #include "sphere.h"
+#include "tetraedr.h"
 
 using namespace std;
 
