@@ -14,6 +14,7 @@ namespace namesp {
             tetraedr t;
         };
         int density;
+        int temperatureOfMelting;
         mType type; // Тип объекта
     };
 }

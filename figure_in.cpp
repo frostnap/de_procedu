@@ -29,6 +29,7 @@ namespace namesp {
             return nullptr;
         }
         ifstr >> element->density;
+        ifstr >> element->temperatureOfMelting;
         return element;
     }
 }
