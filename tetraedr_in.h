@@ -9,7 +9,7 @@ using namespace std;
 
 namespace namesp {
 
-    tetraedr InTetr(ifstream &ifstr);
+    tetraedr InTetr(ifstream &ifstr, bool &error);
 }
 
 #endif //TETRAEDR_IN_H

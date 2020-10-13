@@ -9,7 +9,7 @@ using namespace std;
 
 namespace namesp {
 
-    parallelepiped InParal(ifstream &ifstr);
+    parallelepiped InParal(ifstream &ifstr, bool &error);
 }
 
 #endif //PARALLELEPIPED_IN_H
