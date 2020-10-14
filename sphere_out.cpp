@@ -7,7 +7,7 @@ using namespace std;
 namespace namesp {
 
     void OutSphere(figure *fig, ofstream &ofstr) {
-        auto *sp = (sphere*) fig;
-        ofstr << "sphere: radius=" << sp->radius << ";";
+        auto sp = fig->s;
+        ofstr << "sphere: radius=" << sp.radius << ";";
     }
 }

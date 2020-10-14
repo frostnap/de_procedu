@@ -34,8 +34,9 @@ int main(int argc, char* argv[]) {
 
     namesp::Sort(c);
     // Вывод в файл
-    namesp::Out(c, ofst, namesp::mType::PARALLELEPIPED);
+    namesp::Out(c, ofst);
     // Очистка контейнера
+    namesp::Multi(c, ofst);
     namesp::Clear(c);
     cout << "Program ended"<< endl;
     return 0;
