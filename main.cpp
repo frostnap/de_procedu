@@ -28,6 +28,7 @@ int main(int argc, char* argv[]) {
     namesp::In(c, ifst);
     // Вывод в файл
     namesp::Out(c, ofst);
+    namesp::Multi(c, ofst);
     // Очистка контейнера
     namesp::Clear(c);
     cout << "Program ended"<< endl;
