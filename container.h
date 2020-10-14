@@ -7,6 +7,7 @@
 #include "container_struct.h"
 #include "container_sort.h"
 #include "container_clear.h"
+#include "container_multi.h"
 
 
 #endif //CONTAINER_H

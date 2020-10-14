@@ -13,4 +13,8 @@ add_executable(Lab2020_P main.cpp container.h figure.h parallelepiped_struct.h s
         figure_funct.cpp figure_funct.h parallelepiped_funct.h parallelepiped_funct.cpp sphere_funct.cpp
         sphere_funct.h container_sort.cpp container_sort.h
         tetraedr.h tetraedr_clear.cpp tetraedr_clear.h tetraedr_struct.h tetraedr_in.cpp tetraedr_in.h
-        tetraedr_out.cpp tetraedr_out.h tetraedr_funct.cpp tetraedr_funct.h)
+        tetraedr_out.cpp tetraedr_out.h tetraedr_funct.cpp tetraedr_funct.h
+        container_multi.cpp container_multi.h)
+
+
+add_subdirectory(Google_tests)

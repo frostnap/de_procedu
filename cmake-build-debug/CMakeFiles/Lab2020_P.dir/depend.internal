@@ -92,6 +92,36 @@ CMakeFiles/Lab2020_P.dir/container_in.cpp.obj
  C:/Users/y2g/CLionProjects/Lab2020_P/tetraedr_in.h
  C:/Users/y2g/CLionProjects/Lab2020_P/tetraedr_out.h
  C:/Users/y2g/CLionProjects/Lab2020_P/tetraedr_struct.h
+CMakeFiles/Lab2020_P.dir/container_multi.cpp.obj
+ C:/Users/y2g/CLionProjects/Lab2020_P/container_multi.cpp
+ C:/Users/y2g/CLionProjects/Lab2020_P/container_multi.h
+ C:/Users/y2g/CLionProjects/Lab2020_P/container_struct.h
+ C:/Users/y2g/CLionProjects/Lab2020_P/element.h
+ C:/Users/y2g/CLionProjects/Lab2020_P/figure.h
+ C:/Users/y2g/CLionProjects/Lab2020_P/figure_clear.h
+ C:/Users/y2g/CLionProjects/Lab2020_P/figure_getkey.h
+ C:/Users/y2g/CLionProjects/Lab2020_P/figure_in.h
+ C:/Users/y2g/CLionProjects/Lab2020_P/figure_out.h
+ C:/Users/y2g/CLionProjects/Lab2020_P/figure_struct.h
+ C:/Users/y2g/CLionProjects/Lab2020_P/mType.h
+ C:/Users/y2g/CLionProjects/Lab2020_P/parallelepiped.h
+ C:/Users/y2g/CLionProjects/Lab2020_P/parallelepiped_clear.h
+ C:/Users/y2g/CLionProjects/Lab2020_P/parallelepiped_funct.h
+ C:/Users/y2g/CLionProjects/Lab2020_P/parallelepiped_in.h
+ C:/Users/y2g/CLionProjects/Lab2020_P/parallelepiped_out.h
+ C:/Users/y2g/CLionProjects/Lab2020_P/parallelepiped_struct.h
+ C:/Users/y2g/CLionProjects/Lab2020_P/sphere.h
+ C:/Users/y2g/CLionProjects/Lab2020_P/sphere_clear.h
+ C:/Users/y2g/CLionProjects/Lab2020_P/sphere_funct.h
+ C:/Users/y2g/CLionProjects/Lab2020_P/sphere_in.h
+ C:/Users/y2g/CLionProjects/Lab2020_P/sphere_out.h
+ C:/Users/y2g/CLionProjects/Lab2020_P/sphere_struct.h
+ C:/Users/y2g/CLionProjects/Lab2020_P/tetraedr.h
+ C:/Users/y2g/CLionProjects/Lab2020_P/tetraedr_clear.h
+ C:/Users/y2g/CLionProjects/Lab2020_P/tetraedr_funct.h
+ C:/Users/y2g/CLionProjects/Lab2020_P/tetraedr_in.h
+ C:/Users/y2g/CLionProjects/Lab2020_P/tetraedr_out.h
+ C:/Users/y2g/CLionProjects/Lab2020_P/tetraedr_struct.h
 CMakeFiles/Lab2020_P.dir/container_out.cpp.obj
  C:/Users/y2g/CLionProjects/Lab2020_P/container_out.cpp
  C:/Users/y2g/CLionProjects/Lab2020_P/container_out.h
@@ -258,6 +288,7 @@ CMakeFiles/Lab2020_P.dir/main.cpp.obj
  C:/Users/y2g/CLionProjects/Lab2020_P/container_clear.h
  C:/Users/y2g/CLionProjects/Lab2020_P/container_hashfunctions.h
  C:/Users/y2g/CLionProjects/Lab2020_P/container_in.h
+ C:/Users/y2g/CLionProjects/Lab2020_P/container_multi.h
  C:/Users/y2g/CLionProjects/Lab2020_P/container_out.h
  C:/Users/y2g/CLionProjects/Lab2020_P/container_sort.h
  C:/Users/y2g/CLionProjects/Lab2020_P/container_struct.h

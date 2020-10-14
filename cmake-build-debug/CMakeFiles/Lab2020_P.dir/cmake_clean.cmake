@@ -2,6 +2,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/Lab2020_P.dir/container_clear.cpp.obj"
   "CMakeFiles/Lab2020_P.dir/container_hashfunctions.cpp.obj"
   "CMakeFiles/Lab2020_P.dir/container_in.cpp.obj"
+  "CMakeFiles/Lab2020_P.dir/container_multi.cpp.obj"
   "CMakeFiles/Lab2020_P.dir/container_out.cpp.obj"
   "CMakeFiles/Lab2020_P.dir/container_sort.cpp.obj"
   "CMakeFiles/Lab2020_P.dir/figure_clear.cpp.obj"

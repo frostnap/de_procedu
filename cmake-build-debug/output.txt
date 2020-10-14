@@ -1,5 +1,71 @@
-Table index: 0. V=0.942809; tetraedr: length=2;density=1;
-Table index: 3. V=5425.92; sphere: radius=12;density=6;
-Table index: 6. V=6898.58; sphere: radius=13;density=1;
-Table index: 1. V=6; parallelepiped: A=1;B=2;C=3;density=4;
-Table index: 2. V=25.12; sphere: radius=2;density=3;
+Table index: 0. V=0.942809; tetraedr: length=2;temperature of melting=15;density=1;
+Table index: 3. V=25.12; sphere: radius=2;temperature of melting=100;density=3;
+Table index: 6. V=5425.92; sphere: radius=12;temperature of melting=1;density=6;
+Table index: 1. V=6; parallelepiped: A=1;B=2;C=3;temperature of melting=11;density=4;
+Table index: 2. V=25.12; sphere: radius=2;temperature of melting=3;density=3;
+Multimethod:
+Tetraedr + sphere
+V=25.12; sphere: radius=2;temperature of melting=100;density=3;
+V=0.942809; tetraedr: length=2;temperature of melting=15;density=1;
+Tetraedr + sphere
+V=5425.92; sphere: radius=12;temperature of melting=1;density=6;
+V=0.942809; tetraedr: length=2;temperature of melting=15;density=1;
+Tetraedr + parallelepiped
+V=6; parallelepiped: A=1;B=2;C=3;temperature of melting=11;density=4;
+V=0.942809; tetraedr: length=2;temperature of melting=15;density=1;
+Tetraedr + sphere
+V=25.12; sphere: radius=2;temperature of melting=3;density=3;
+V=0.942809; tetraedr: length=2;temperature of melting=15;density=1;
+
+Sphere + tetraedr
+V=0.942809; tetraedr: length=2;temperature of melting=15;density=1;
+V=25.12; sphere: radius=2;temperature of melting=100;density=3;
+Sphere + sphere
+V=5425.92; sphere: radius=12;temperature of melting=1;density=6;
+V=25.12; sphere: radius=2;temperature of melting=100;density=3;
+Sphere + parallelepiped
+V=6; parallelepiped: A=1;B=2;C=3;temperature of melting=11;density=4;
+V=25.12; sphere: radius=2;temperature of melting=100;density=3;
+Sphere + sphere
+V=25.12; sphere: radius=2;temperature of melting=3;density=3;
+V=25.12; sphere: radius=2;temperature of melting=100;density=3;
+
+Sphere + tetraedr
+V=0.942809; tetraedr: length=2;temperature of melting=15;density=1;
+V=5425.92; sphere: radius=12;temperature of melting=1;density=6;
+Sphere + sphere
+V=25.12; sphere: radius=2;temperature of melting=100;density=3;
+V=5425.92; sphere: radius=12;temperature of melting=1;density=6;
+Sphere + parallelepiped
+V=6; parallelepiped: A=1;B=2;C=3;temperature of melting=11;density=4;
+V=5425.92; sphere: radius=12;temperature of melting=1;density=6;
+Sphere + sphere
+V=25.12; sphere: radius=2;temperature of melting=3;density=3;
+V=5425.92; sphere: radius=12;temperature of melting=1;density=6;
+
+Parallelepiped + tetraedr
+V=0.942809; tetraedr: length=2;temperature of melting=15;density=1;
+V=6; parallelepiped: A=1;B=2;C=3;temperature of melting=11;density=4;
+Parallelepiped + sphere
+V=25.12; sphere: radius=2;temperature of melting=100;density=3;
+V=6; parallelepiped: A=1;B=2;C=3;temperature of melting=11;density=4;
+Parallelepiped + sphere
+V=5425.92; sphere: radius=12;temperature of melting=1;density=6;
+V=6; parallelepiped: A=1;B=2;C=3;temperature of melting=11;density=4;
+Parallelepiped + sphere
+V=25.12; sphere: radius=2;temperature of melting=3;density=3;
+V=6; parallelepiped: A=1;B=2;C=3;temperature of melting=11;density=4;
+
+Sphere + tetraedr
+V=0.942809; tetraedr: length=2;temperature of melting=15;density=1;
+V=25.12; sphere: radius=2;temperature of melting=3;density=3;
+Sphere + sphere
+V=25.12; sphere: radius=2;temperature of melting=100;density=3;
+V=25.12; sphere: radius=2;temperature of melting=3;density=3;
+Sphere + sphere
+V=5425.92; sphere: radius=12;temperature of melting=1;density=6;
+V=25.12; sphere: radius=2;temperature of melting=3;density=3;
+Sphere + parallelepiped
+V=6; parallelepiped: A=1;B=2;C=3;temperature of melting=11;density=4;
+V=25.12; sphere: radius=2;temperature of melting=3;density=3;
+

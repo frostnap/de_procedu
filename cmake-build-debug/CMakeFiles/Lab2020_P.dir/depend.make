@@ -92,6 +92,36 @@ CMakeFiles/Lab2020_P.dir/container_in.cpp.obj: ../tetraedr_in.h
 CMakeFiles/Lab2020_P.dir/container_in.cpp.obj: ../tetraedr_out.h
 CMakeFiles/Lab2020_P.dir/container_in.cpp.obj: ../tetraedr_struct.h
 
+CMakeFiles/Lab2020_P.dir/container_multi.cpp.obj: ../container_multi.cpp
+CMakeFiles/Lab2020_P.dir/container_multi.cpp.obj: ../container_multi.h
+CMakeFiles/Lab2020_P.dir/container_multi.cpp.obj: ../container_struct.h
+CMakeFiles/Lab2020_P.dir/container_multi.cpp.obj: ../element.h
+CMakeFiles/Lab2020_P.dir/container_multi.cpp.obj: ../figure.h
+CMakeFiles/Lab2020_P.dir/container_multi.cpp.obj: ../figure_clear.h
+CMakeFiles/Lab2020_P.dir/container_multi.cpp.obj: ../figure_getkey.h
+CMakeFiles/Lab2020_P.dir/container_multi.cpp.obj: ../figure_in.h
+CMakeFiles/Lab2020_P.dir/container_multi.cpp.obj: ../figure_out.h
+CMakeFiles/Lab2020_P.dir/container_multi.cpp.obj: ../figure_struct.h
+CMakeFiles/Lab2020_P.dir/container_multi.cpp.obj: ../mType.h
+CMakeFiles/Lab2020_P.dir/container_multi.cpp.obj: ../parallelepiped.h
+CMakeFiles/Lab2020_P.dir/container_multi.cpp.obj: ../parallelepiped_clear.h
+CMakeFiles/Lab2020_P.dir/container_multi.cpp.obj: ../parallelepiped_funct.h
+CMakeFiles/Lab2020_P.dir/container_multi.cpp.obj: ../parallelepiped_in.h
+CMakeFiles/Lab2020_P.dir/container_multi.cpp.obj: ../parallelepiped_out.h
+CMakeFiles/Lab2020_P.dir/container_multi.cpp.obj: ../parallelepiped_struct.h
+CMakeFiles/Lab2020_P.dir/container_multi.cpp.obj: ../sphere.h
+CMakeFiles/Lab2020_P.dir/container_multi.cpp.obj: ../sphere_clear.h
+CMakeFiles/Lab2020_P.dir/container_multi.cpp.obj: ../sphere_funct.h
+CMakeFiles/Lab2020_P.dir/container_multi.cpp.obj: ../sphere_in.h
+CMakeFiles/Lab2020_P.dir/container_multi.cpp.obj: ../sphere_out.h
+CMakeFiles/Lab2020_P.dir/container_multi.cpp.obj: ../sphere_struct.h
+CMakeFiles/Lab2020_P.dir/container_multi.cpp.obj: ../tetraedr.h
+CMakeFiles/Lab2020_P.dir/container_multi.cpp.obj: ../tetraedr_clear.h
+CMakeFiles/Lab2020_P.dir/container_multi.cpp.obj: ../tetraedr_funct.h
+CMakeFiles/Lab2020_P.dir/container_multi.cpp.obj: ../tetraedr_in.h
+CMakeFiles/Lab2020_P.dir/container_multi.cpp.obj: ../tetraedr_out.h
+CMakeFiles/Lab2020_P.dir/container_multi.cpp.obj: ../tetraedr_struct.h
+
 CMakeFiles/Lab2020_P.dir/container_out.cpp.obj: ../container_out.cpp
 CMakeFiles/Lab2020_P.dir/container_out.cpp.obj: ../container_out.h
 CMakeFiles/Lab2020_P.dir/container_out.cpp.obj: ../container_struct.h
@@ -257,6 +287,7 @@ CMakeFiles/Lab2020_P.dir/main.cpp.obj: ../container.h
 CMakeFiles/Lab2020_P.dir/main.cpp.obj: ../container_clear.h
 CMakeFiles/Lab2020_P.dir/main.cpp.obj: ../container_hashfunctions.h
 CMakeFiles/Lab2020_P.dir/main.cpp.obj: ../container_in.h
+CMakeFiles/Lab2020_P.dir/main.cpp.obj: ../container_multi.h
 CMakeFiles/Lab2020_P.dir/main.cpp.obj: ../container_out.h
 CMakeFiles/Lab2020_P.dir/main.cpp.obj: ../container_sort.h
 CMakeFiles/Lab2020_P.dir/main.cpp.obj: ../container_struct.h
